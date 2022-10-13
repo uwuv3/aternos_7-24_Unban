@@ -1,0 +1,16 @@
+[
+    {
+        "username": ".Bot_ImChaves",
+        "password": null,
+        "version": "1.18",
+        "server": "imchaves2.aternos.me",
+        "port": 27540,
+        "extra": {
+            "randomMove": true,
+            "reg": {
+                "enabled": false,
+                "passaword": "anan"
+            }
+        }
+    }
+]
